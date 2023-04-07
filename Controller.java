@@ -1,4 +1,4 @@
-package vn.stvk.java.advtrflcn;
+package StvkTrafficLightController;
 // ⚠require Java 1.7!
 /*
  * 1 or 2 digits (0-99) output are countdown seconds
