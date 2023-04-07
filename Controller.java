@@ -1,5 +1,5 @@
 package StvkTrafficLightController;
-// ⚠require Java 1.7!
+// ⚠require Java 1.3!
 /*
  * 1 or 2 digits (0-99) output are countdown seconds
  *
